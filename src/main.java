@@ -140,6 +140,8 @@ public class main {
     }
 
     */
+    // opgave 4
+    /*
 
         void main() {
 
@@ -181,7 +183,9 @@ public class main {
             return (double) sum / numbers.length;
         }
 
+     */
 
+        // opgave 5 kommentar. kan ikke finde debug assigment
 }
 
 
